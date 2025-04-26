@@ -1,3 +1,5 @@
 hellow world
 NEW CODE IN FEATURE COMMIT1
 NEW CODE IN FEATURE COMMIT2
+feature(){
+}
